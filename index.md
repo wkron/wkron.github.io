@@ -23,5 +23,5 @@ _Marts 2019 - August 2019_
 Mødebooking og -planlægning for PFA’s pensionsrådgivere, med telefonisk kontakt til ca. 50 kunder dagligt.
 
 
-###Kompentencer
+### Kompentencer
 Programmeringserfaring i Python, R, Java, SQL og C++.
