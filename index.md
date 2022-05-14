@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/wkron/wkron.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Uddannelse
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Matematik - Københavns Universitet
+_September 2020 - i dag_
+Jeg læser matematik med specialisering i statistik. Jeg har gennem mine valgfag vinklet min uddannelse i retning af programmering, data science og machine learning.
 
-### Markdown
+#### Økonomi - Københavns Universitet
+_September 2019 - August 2020_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Erhvervserfaring
 
-```markdown
-Syntax highlighted code block
+#### Consultant @ Voli
+_Juni 2021 - i dag_
+Konsulentarbejde i relation til ERP-systemet Maconomy. Programmering i Java, SQL og domænespecifikke sprog, med fokus på automatisering og procesoptimering. Derudover layoutændringer og lign. Junior Consultant indtil 1. november 2021. 
 
-# Header 1
-## Header 2
-### Header 3
+#### Smitteopsporingsmedarbejder @ Styrelsen for Patientsikkerhed
+_December 2020 - Maj 2021_
+Telefonisk kontakt med 20-30 borgere dagligt, med fokus på at kommunikere gældende retningslinjer klart og forståeligt.
 
-- Bulleted
-- List
+#### Rådgiverassistent @ PFA Pension
+_Marts 2019 - August 2019_
+Mødebooking og -planlægning for PFA’s pensionsrådgivere, med telefonisk kontakt til ca. 50 kunder dagligt.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wkron/wkron.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###Kompentencer
+Programmeringserfaring i Python, R, Java, SQL og C++.
