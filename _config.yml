@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
-title: > CV
+title: |
+        CV
         William Kronbæk
-description: > wkronbaek@gmail.com
-                50510779
+description: |
+        wkronbaek@gmail.com
+        50510779
