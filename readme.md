@@ -11,7 +11,7 @@ _September 2019 - August 2020_
 ### Erhvervserfaring
 
 **Instruktor - Københavns Universitet**
-_September 2022 - i dag_
+_September 2022 - i dag_  
 Undervisning og opgaveretning på kurserne Statistisk Dataanalyse og Sandsynlighedsregning og Statistik. Derudover indgår jeg i vagtplanen på studiets lektiecafe.
 
 **Consultant - Voli**  
