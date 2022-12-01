@@ -3,7 +3,7 @@
 
 **Matematik - Københavns Universitet**  
 _September 2020 - i dag_  
-Jeg læser matematik med specialisering i statistik. Mine valgfag har vinklet min uddannelse i retning af programmering, machine learning og data science.
+Jeg læser matematik med specialisering i statistik. Mine valgfag har vinklet min uddannelse mod programmering, machine learning og data science.
 
 **Økonomi - Københavns Universitet**  
 _September 2019 - August 2020_
