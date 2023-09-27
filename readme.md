@@ -3,7 +3,11 @@
 
 **Matematik - Københavns Universitet**  
 _September 2020 - i dag_  
-Jeg læser matematik med specialisering i statistik. Mine valgfag har vinklet min uddannelse mod programmering, machine learning og data science.
+Jeg læser en kandidatuddannelse i statistik. Valgfag især indenfor programmering, machine learning og data science.
+
+**Matematik, BSc - Københavns Universitet**  
+_September 2020 - Juni 2023_  
+Bachelor i matematik med specialisering i statistik.
 
 **Økonomi - Københavns Universitet**  
 _September 2019 - August 2020_
@@ -28,4 +32,4 @@ Telefonisk mødebooking og planlægning for PFA’s pensionsrådgivere.
 
 
 ### Kompentencer
-Programmeringserfaring i Python, R, C/C++, Java, og SQL.
+Erfaring i Python, R, C/C++, Java, SQL og Git.
