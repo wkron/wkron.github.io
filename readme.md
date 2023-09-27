@@ -2,7 +2,7 @@
 ### Uddannelse
 
 **Matematik - Københavns Universitet**  
-_September 2020 - i dag_  
+_September 2023 - i dag_  
 Jeg læser en kandidatuddannelse i statistik. Valgfag især indenfor programmering, machine learning og data science.
 
 **Matematik, BSc - Københavns Universitet**  
@@ -16,7 +16,7 @@ _September 2019 - August 2020_
 
 **Instruktor - Københavns Universitet**  
 _September 2022 - i dag_  
-Undervisning og opgaveretning på kurserne Statistisk Dataanalyse og Sandsynlighedsregning og Statistik. Derudover indgår jeg i vagtplanen på studiets lektiecafe.
+Undervisning og opgaveretning på kurser inden for både praktisk og teoretisk statistik samt matematisk analyse.
 
 **Consultant - Voli**  
 _Juni 2021 - August 2022_  
